@@ -3,4 +3,6 @@ I'm a game developer, computer programmer and a "want-to-be" educator on various
 
 At the present I'm working on a Breakout clone called "Paddles, Balls, Blocks and Walls" in the popular Godot engine.  
 
+See my actual support page here - https://chaduke.github.io/support-me
+
 
